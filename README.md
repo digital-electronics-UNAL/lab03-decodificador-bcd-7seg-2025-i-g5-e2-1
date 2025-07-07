@@ -4,9 +4,11 @@
 
 ## Integrantes 
 
-David Felipe Cardenas Cubides
-Alvaro Nicolas Lopez Brijaldo
-Brayan Yesid Santos Gonzales
+David Felipe Cardenas Cubides.
+
+Alvaro Nicolas Lopez Brijaldo.
+
+Brayan Yesid Santos Gonzales.
 
 ## Informe
 
